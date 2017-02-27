@@ -9,4 +9,3 @@ Due to it's distributed nature, auto-incrementing UIDs a la DOORS will be replac
 
 When ready to export, LaTeX templates are used to control the output format of the document. The resulting document will have be structured for use in a formal environment, and also can show differences between baselined versions using git diff.
 
-Always looking for passionate developers with a knowledge of Requirements Management Systems or many years of experience/pain working with DOORS. If interested, please contact program's developers.
