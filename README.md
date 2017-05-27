@@ -9,3 +9,7 @@ Due to it's distributed nature, auto-incrementing UIDs a la DOORS will be replac
 
 When ready to export, LaTeX templates are used to control the output format of the document. The resulting document will have be structured for use in a formal environment, and also can show differences between baselined versions using git diff.
 
+IDEAS:
+write in expressive logic (LTL/PSL), generate plain-text requirements in human-readable format?
+  needs a LUT containing signal->plaintext naming scheme, also for LTL->plaintext. NLG fills in the rest?
+needs user-configurable extra fields, but perhaps punt this into a separate product?
